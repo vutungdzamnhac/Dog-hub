@@ -19,7 +19,7 @@ shared.LoaderKeyFrames = {
 };
 local v2 = {
     LoaderData = {
-        Name = shared.LoaderTitle or "A Loading",
+        Name = shared.LoaderTitle or "A Loader",
         Colors = shared.LoaderColors or {
             Main = Color3.fromRGB(0, 0, 0),
             Topic = Color3.fromRGB(200, 200, 200),
