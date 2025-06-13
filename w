@@ -12,10 +12,10 @@ local Window = getgenv().Window or Fluent:CreateWindow({
     TabWidth = 160,
     Size = UDim2.fromOffset(480, 360),
     Acrylic = false, -- The blur may be detectable, setting this to false disables blur entirely
-    Theme = "Dark",
+    Theme = " Bright",
     MinimizeKey = Enum.KeyCode.LeftControl -- Used when theres no MinimizeKeybind
 })
-local UiOrders = {"Main Farm","Stack Auto farm","Sub Farming","Status","Player-Status","Fruit","Local Player","Travel","Pvp-Visual","Raid-Material","RaceV4-Mirage","Sea Events","Shop","Setting","Webhook","Game-Server","One Click"}
+local UiOrders = {"Say Gex69.com","Len Lut.blog","hentai.com","hamstersex.com","vlxx.bz","Travel","Pvp-Visual","Raid-Material","RaceV4-Mirage","Sea Events","Shop","Setting","Webhook","Game-Server","One Click"}
 local TabCollections = {
 }
 ElementsCollection = {}
